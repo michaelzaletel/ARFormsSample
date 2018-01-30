@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{182C82E4-BEC5-4B89-854B-C48A13D53F16}|Default">
+  <MonoDevelop.Ide.ItemProperties.ARFormsSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.576F4E2F-8778-448D-97E2-E2E22B7B536D" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/values/styles.xml">
+    <Files>
+      <File FileName="ARSample/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ARFormsSample.Droid PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MultiItemStartupConfigurations />
+</Properties>
